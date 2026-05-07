@@ -19,12 +19,15 @@ Una plataforma web inspirada en servicios freelance como Workana o Fiverr, enfoc
 💬 Chat entre cliente y trabajador
 🗄️ Backend con FastAPI + PostgreSQL
 ⚡ Frontend moderno con React + Vite + TailwindCSS
+
 🛠️ Tecnologías utilizadas
+
 Frontend
 ⚛️ React
 ⚡ Vite
 🎨 TailwindCSS
 🧭 React Router
+
 Backend
 🐍 FastAPI
 🗃️ PostgreSQL
