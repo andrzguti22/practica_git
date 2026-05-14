@@ -33,3 +33,4 @@ Backend
 🗃️ PostgreSQL
 🔥 SQLAlchemy
 🔐 JWT Authentication
+
